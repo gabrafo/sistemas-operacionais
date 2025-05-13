@@ -9,7 +9,6 @@ Este repositório é dedicado à disciplina GCC 116 - Sistemas Operacionais da U
 ## Recursos
 
 - **Videoaulas**: Acesse clicando [aqui](https://www.youtube.com/watch?v=Rl6HhDvW984&list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw&ab_channel=UNIVESP).
-- **Trabalho Prático**: [Trabalho prático](https://github.com/gabrafo/redestrabalho) da disciplina, realizado por mim e por outro aluno.
 
 ## Ferramentas utilizadas
 
